@@ -30,7 +30,7 @@
  }
  .top_section h4{
   font-size: 20px;
-  font-weight: bold;
+  text-align: end;
   color: #1d1e4c;
   text-transform: uppercase;
  }
