@@ -29,7 +29,7 @@
   text-transform: uppercase;
  }
  .top_section h4{
-  font-size: 20px;
+  font-size: 30px;
   text-align: end;
   color: #1d1e4c;
   text-transform: uppercase;
@@ -41,4 +41,19 @@
  .image_container,img{
      width:320px;
      height:320px;
+ }
+ .about_section{
+  margin-top: 50px;
+ }
+ .about_section h2{
+  font-size: 40px;
+  font-weight: 400px;
+  margin-bottom: 20px;
+ }
+ .about_section p{
+  font-size:20px;
+  line-height:30px;
+  letter-spacing: 2px;
+
+
  }
