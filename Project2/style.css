@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0 ;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+}
+.container{
+   width:900px;
+    margin:0px auto;
+
+
+
+}
+.main_form{
+
+    width:600px;
+    
+    background-color: white;
+
+}
