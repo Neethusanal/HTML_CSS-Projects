@@ -15,8 +15,12 @@ body{
 }
 .main_form{
 
-    width:600px;
-    
+    max-width:600px;
+     padding:20px;
     background-color: white;
+    margin:0 auto;
+    margin-top:50px;
+    border-radius: 20px;
+    box-shadow: 
 
 }
