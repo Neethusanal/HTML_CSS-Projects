@@ -1,0 +1,21 @@
+body{
+    
+    height: 100vh;
+    border:20px  solid balck;
+
+
+}
+.container{
+    width:800;
+    background:whitesmoke;
+    padding:20px;
+    box-shadow: 0,0,10px;
+
+}
+header{
+    text-align: center;
+
+}
+.borderbottom{
+    border-bottom: 1px solid black;
+}
